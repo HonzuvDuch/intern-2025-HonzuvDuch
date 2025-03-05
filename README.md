@@ -16,4 +16,6 @@ Poté si vytvoří frontu, do které vloží první prvek za :, tady by to bylo 
 
 Ilustrace:
 
+![](AlgorithmExplainer.png)
 
+Okamžitý stav fronty je zde znázorněn vertikálně, kdy se berou prvky z vrchu dolů, a dále se expandují.
